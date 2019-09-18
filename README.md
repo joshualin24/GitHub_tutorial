@@ -1,21 +1,17 @@
 # GitHub_tutorial 
 
-Credit to @jvita
-
-# Git basics + version control organization
-=========================================
-A short activity filling out a Mad Lib using Git
-
 
 ## Why GitHub?
 
-
+1. GitHub provides awesome repos
 [awesome open source repos](https://github.com/topics/awesome)
 
-[my new fav: the fuck](https://github.com/nvbn/thefuck)
+2. Interesting, and maybe useful packages [my new fav: the fuck](https://github.com/nvbn/thefuck)
 
+3. Reproducing research paper
 [Neural ODE](https://github.com/rtqichen/torchdiffeq)
 
+4. Great tool for version control, in particullar for collaborative project 
 lets get it started: [link](https://github.com/thehackerwithin/illinois/blob/master/git2.md)
 
 
