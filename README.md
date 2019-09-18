@@ -1,4 +1,6 @@
-# GitHub_tutorial
+# GitHub_tutorial 
+
+Credit to @jvita
 
 Git basics + version control organization
 =========================================
